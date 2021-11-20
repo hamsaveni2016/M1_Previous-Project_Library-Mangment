@@ -1,4 +1,4 @@
-# Hamsa_Librarymanagmentsystem
+# Hamsa_Library managment system
 
 
 # BADGES
