@@ -1,4 +1,4 @@
-# Library managment system
+# Stepin_Librarymanagmentsystem
 
 
 # BADGES
@@ -9,7 +9,7 @@
 ![Code grade](https://www.code-inspector.com/project/27851/status/svg)
 
 ## Codacya Badge
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/54b8393b927a4b0f8c34a19f8a1363a1)](https://app.codacy.com/gh/SonikaAalla/Stepin_Librarymanagmentsystem?utm_source=github.com&utm_medium=referral&utm_content=SonikaAalla/Stepin_Librarymanagmentsystem&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/54b8393b927a4b0f8c34a19f8a1363a1)](https://app.codacy.com/gh/hamsaveni2016/M1_Previous-Project_Library-Mangmentutm_source=github.com&utm_medium=referral&utm_content=hamsaveni2016/M1_Previous-Project_Library-Mangment&utm_campaign=Badge_Grade_Settings)
 
 ## Git Inspector
 [![Contribution Check - Git Inspector](https://github.com/SonikaAalla/Stepin_Librarymanagmentsystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/SonikaAalla/Stepin_Librarymanagmentsystem/actions/workflows/gitinspector.yml)
@@ -28,11 +28,12 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 |FOLDER|DESCRIPTION|
 |:-----|:----------|
 |1_Requirements|Documents detailing requirements|
-|2_Architecture|Structural and Behavioural UML|
+|2 Architecture|Structural and Behavioural UML|
 |3_Implementation|All the code is written here|
-|4_TestPlanAndOutput|Documents with test plans and outputs|
+|4 TestPlanAndOutput|Documents with test plans and outputs|
 |5_Report|Generated Report|
-|6_ImagesandVideos|All the images and program execution video|
+|6 ImagesandVideos|All the images and program execution video|
+|7_Other|other information|
 
 # ISSUE TRACKING
 |ID|NAME|FEATURES|ISSUES RAISED|ISSUES RESOLVED|TOTAL TESTCASES|TOTAL TESTCASES PASSED|
