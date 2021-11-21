@@ -12,7 +12,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/54b8393b927a4b0f8c34a19f8a1363a1)](https://app.codacy.com/gh/hamsaveni2016/M1_Previous-Project_Library-Mangmentutm_source=github.com&utm_medium=referral&utm_content=hamsaveni2016/M1_Previous-Project_Library-Mangment&utm_campaign=Badge_Grade_Settings)
 
 ## Git Inspector
-[![Contribution Check - Git Inspector](https://github.com/SonikaAalla/Stepin_Librarymanagmentsystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/SonikaAalla/Stepin_Librarymanagmentsystem/actions/workflows/gitinspector.yml)
+[![Contribution Check - Git Inspector](https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/gitinspector.yml/badge.svg)]https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/gitinspector.yml)
 
 
 
