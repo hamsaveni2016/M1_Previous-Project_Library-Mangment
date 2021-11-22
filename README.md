@@ -4,7 +4,7 @@
 # BADGES
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|--------------|-------|--------------
-![Code Quality Score](https://www.code-inspector.com/project/27851/score/svg)|![Code grade](https://www.code-inspector.com/project/27851/status/svg)|[![Codacy Badge](https://api.codacy.com/project/badge/Grade/54b8393b927a4b0f8c34a19f8a1363a1)](https://app.codacy.com/gh/hamsaveni2016/M1_Previous-Project_Library-Mangmentutm_source=github.com&utm_medium=referral&utm_content=hamsaveni2016/M1_Previous-Project_Library-Mangment&utm_campaign=Badge_Grade_Settings)|[![Git Inspector](https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/gitinspector.yml)
+![Code Quality Score]
 
 
 
