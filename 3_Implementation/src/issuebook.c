@@ -14,7 +14,7 @@ test_values issuebook(int id)
     fp = fopen("bookLibrary.dat","rb");
     if(fp==NULL)
     {
-        printf("\nError while opening file in issuing book\\n");
+         printf("\nError while opening file in issuing book\\n");
         return fail;
     }
     else{
