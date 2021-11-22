@@ -5,7 +5,7 @@
 # BADGES
 | Codacya Badge | Code Quality Score | Unity | [Git Inspector](using github.io option)
 |---------------|--------------------|-------|---------------------------------------
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d54c3a7b6b9d4a2ebc82846fd673864e)](https://www.codacy.com/gh/hamsaveni2016/M1_Previous-Project_Library-Mangment/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hamsaveni2016/M1_Previous-Project_Library-Mangment&amp;utm_campaign=Badge_Grade) | [![Code Quality Score](https://api.codiga.io/project/29818/score/svg)]
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d54c3a7b6b9d4a2ebc82846fd673864e)](https://www.codacy.com/gh/hamsaveni2016/M1_Previous-Project_Library-Mangment/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hamsaveni2016/M1_Previous-Project_Library-Mangment&amp;utm_campaign=Badge_Grade) | [!Code Quality Score(https://api.codiga.io/project/29818/score/svg)]
 
 
 
