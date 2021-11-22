@@ -19,7 +19,7 @@ test_values deletebook(int id)
     
     if(fp==NULL || ft==NULL)
         {
-            printf("\nError: While opening file:\n");
+             printf("\nError: While opening file:\n");
             return fail;
         }
     else{
