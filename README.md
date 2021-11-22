@@ -1,10 +1,13 @@
 # Library managment system
 
 
+<<<<<<< HEAD
 # BADGES
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|--------------|-------|--------------
 ![Code Quality Score]
+=======
+>>>>>>> 24a6a7273729d098ad10b560869e52f1fa6e13c6
 
 
 
