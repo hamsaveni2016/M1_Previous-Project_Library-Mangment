@@ -3,7 +3,7 @@
 
 
 # BADGES
-Quality Badge| Unity | [Git Inspector](using github.io option)
+| Codacya Badge | Quality Badge| Unity | [Git Inspector](using github.io option)
 -------------|-------|--------------
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d54c3a7b6b9d4a2ebc82846fd673864e)](https://www.codacy.com/gh/hamsaveni2016/M1_Previous-Project_Library-Mangment/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hamsaveni2016/M1_Previous-Project_Library-Mangment&amp;utm_campaign=Badge_Grade)
 
