@@ -1,7 +1,7 @@
 # Library managment system
 
 
-<<<<<<< HEAD
+
 # BADGES
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|--------------|-------|--------------
