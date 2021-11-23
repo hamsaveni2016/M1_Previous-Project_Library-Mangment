@@ -18,7 +18,7 @@
 |`4 TestPlanAndOutput`|Documents with test plans and outputs|
 |`5_Report`|Generated Report|
 |`6 ImagesandVideos`|All the images and program execution video|
-|`7_Other`other information|
+|`7_Other`|other information|
 
 # ISSUE TRACKING
 |ID|NAME|FEATURES|ISSUES RAISED|ISSUES RESOLVED|TOTAL TESTCASES|TOTAL TESTCASES PASSED|
