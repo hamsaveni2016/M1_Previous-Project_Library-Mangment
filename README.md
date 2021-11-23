@@ -3,9 +3,9 @@
 
 
 # BADGES
-| Codacya Badge | Code Quality | Code Grade | [Git Inspector](using github.io option)
-|---------------|--------------|------------|----------------------------------------
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d54c3a7b6b9d4a2ebc82846fd673864e)](https://www.codacy.com/gh/hamsaveni2016/M1_Previous-Project_Library-Mangment/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hamsaveni2016/M1_Previous-Project_Library-Mangment&amp;utm_campaign=Badge_Grade) | ![Code Quality](https://api.codiga.io/project/29818/score/svg)[![Code Quality - Static Code - Cppcheck](https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/cppcheck.yml) | ![Code Grade](https://api.codiga.io/project/29818/status/svg) | [![Contribution Check - Git Inspector](https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/gitinspector.yml)
+| Codacya Badge | Code Quality | Code Grade | Unity |[Git Inspector](using github.io option)
+|---------------|--------------|------------|-------|---------------------------------------
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d54c3a7b6b9d4a2ebc82846fd673864e)](https://www.codacy.com/gh/hamsaveni2016/M1_Previous-Project_Library-Mangment/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hamsaveni2016/M1_Previous-Project_Library-Mangment&amp;utm_campaign=Badge_Grade) | ![Code Quality](https://api.codiga.io/project/29818/score/svg)[![Code Quality - Static Code - Cppcheck](https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/cppcheck.yml) | ![Code Grade](https://api.codiga.io/project/29818/status/svg) | [![C/C++ CI UnitTesting](https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/unity.yml/badge.svg)](https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/unity.yml) | [![Contribution Check - Git Inspector](https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/gitinspector.yml)
 
 
 
