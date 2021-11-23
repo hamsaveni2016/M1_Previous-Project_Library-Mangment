@@ -23,7 +23,7 @@
 # ISSUE TRACKING
 |ID|NAME|FEATURES|ISSUES RAISED|ISSUES RESOLVED|TOTAL TESTCASES|TOTAL TESTCASES PASSED|
 |:----|:---|:-------|:------------|:--------------|:--------------|:---------------------|
-|40020908|HAMSAVENI G S|LIBRARY MANAGEMENT SYSTEM(ADD,SEARCH,ISSUE,DEL,VIEW)|No|No|no|no|
+|40020908|HAMSAVENI G S|LIBRARY MANAGEMENT SYSTEM(ADD,SEARCH,ISSUE,DEL,VIEW)|No|No|5|5|
 
 # Challenges Faced and How Was It Overcome
 1.I have faced issues in file handling. so, I used strings.
