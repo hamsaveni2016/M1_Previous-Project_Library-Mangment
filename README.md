@@ -1,5 +1,8 @@
 # Library managment system
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f8013c501e0f446bb28470e737baa29e)](https://app.codacy.com/gh/hamsaveni2016/M1_Previous-Project_Library-Mangment?utm_source=github.com&utm_medium=referral&utm_content=hamsaveni2016/M1_Previous-Project_Library-Mangment&utm_campaign=Badge_Grade_Settings)
+
+
 
 
 # BADGES
