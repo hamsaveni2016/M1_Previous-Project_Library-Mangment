@@ -1,4 +1,4 @@
-#include"library_Managment_system.h"
+#include"inc/library_management_system.h"
 #include"unity_internals.h"
 #include"unity.h"
 
@@ -8,7 +8,7 @@ void tearDown(){}
 
 
 void test_addition(void){
-    TEST_ASSERT_EQUAL(pass,addition(125, "Sonika", "Dragon"));
+    TEST_ASSERT_EQUAL(pass,addition(125, "Hamsa", "12345"));
 }
 
 void test_viewbook(void){
