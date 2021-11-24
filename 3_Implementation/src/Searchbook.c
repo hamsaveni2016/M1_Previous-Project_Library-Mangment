@@ -1,4 +1,4 @@
-#include<library_Managment_system.h>
+#include<../inc/library_management_system.h>
 
 /**
  * @brief function to  find the details about a book
