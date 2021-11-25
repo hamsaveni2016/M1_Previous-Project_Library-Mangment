@@ -18,5 +18,3 @@
 ### DISPLAY VIEW
 ![displayview](https://user-images.githubusercontent.com/73100536/143412464-1bd534e5-0b39-4905-a6fb-3d78e403bb99.png)
 
-### VIDEO
-![video](https://user-images.githubusercontent.com/73100536/143412796-edb16063-773b-4ac9-8c25-9464b3f381be.mp4)
